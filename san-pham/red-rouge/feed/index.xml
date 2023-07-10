@@ -4,14 +4,17 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
 	>
 <channel>
 	<title>
 	Các phản hồi luận về: Red rouge	</title>
-	<atom:link href="http://localhost/doancuoiki/san-pham/red-rouge/feed/?simply_static_page=9840" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/doancuoiki/san-pham/red-rouge/feed/?simply_static_page=11885" rel="self" type="application/rss+xml" />
 	<link>https://anchin1001.github.io/doancuoiki/san-pham/red-rouge/</link>
 	<description></description>
-	<lastBuildDate>Mon, 19 Jun 2023 13:28:04 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Jul 2023 10:09:23 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

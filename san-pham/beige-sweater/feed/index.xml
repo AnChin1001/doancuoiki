@@ -4,11 +4,14 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
 	>
 <channel>
 	<title>
 	Các phản hồi luận về: Beige sweater	</title>
-	<atom:link href="http://localhost/doancuoiki/san-pham/beige-sweater/feed/?simply_static_page=10026" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/doancuoiki/san-pham/beige-sweater/feed/?simply_static_page=12084" rel="self" type="application/rss+xml" />
 	<link>https://anchin1001.github.io/doancuoiki/san-pham/beige-sweater/</link>
 	<description></description>
 	<lastBuildDate>Mon, 12 Jun 2023 09:19:06 +0000</lastBuildDate>
